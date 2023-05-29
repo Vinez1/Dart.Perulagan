@@ -48,4 +48,4 @@
     }
 
 Output
-!()[foto/1.png]
+![](foto/1.png)
