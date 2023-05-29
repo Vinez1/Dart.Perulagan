@@ -47,5 +47,6 @@ void main() {
   result(nama, angka);
 }
 ```
+
 Output :
-![](foto/1.png)
+![](foto/1.png) <br>
